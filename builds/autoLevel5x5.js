@@ -8,6 +8,7 @@ module.exports = {
     configuration: {
         enable: [
             ["GRID_MAX_POINTS_X", 5]
+            // GRRRRRRRRRRRRR
         ]
     }
 };
